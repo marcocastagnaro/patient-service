@@ -13,5 +13,5 @@ spring.mail.protocol=smtp
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 
-spring.mail.username=solarislabs.contact@gmail.com
-spring.mail.password=dznt syoy llww qbeb
+spring.mail.username=
+spring.mail.password=
